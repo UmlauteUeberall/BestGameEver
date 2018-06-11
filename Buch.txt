@@ -5,14 +5,13 @@ Das ist ein Test
 
 
 Phils unwichtige Dinge, sehr unwichtig
+marco Stinkt
 
 Timo Stinkt
 
 marco war hier
 
-<<<<<<< HEAD
 
 Moin
-=======
 und marco hat schon wieder was geschrieben.
 ich war das nicht.
