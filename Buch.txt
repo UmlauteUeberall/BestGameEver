@@ -4,11 +4,15 @@ Das ist ein Test
 
 
 
-Phils unwichtige Dinge
+Phils unwichtige Dinge, sehr unwichtig
 
 Timo Stinkt
 
 marco war hier
 
+<<<<<<< HEAD
 
 Moin
+=======
+und marco hat schon wieder was geschrieben.
+>>>>>>> edba1704be4437ab47cb8459e6dfb1140872f87b
