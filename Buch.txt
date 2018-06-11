@@ -2,14 +2,17 @@ wichtige Dinge
 
 Das ist ein Test
 
-1 1 2 3 5 8 13 21
 
-Dinges unwichtige Phil
 
-marco Stinkt
 Phils unwichtige Dinge, sehr unwichtig
 
-Timo war hier
+Timo Stinkt
 
+marco war hier
+
+<<<<<<< HEAD
+
+Moin
+=======
 und marco hat schon wieder was geschrieben.
 ich war das nicht.
